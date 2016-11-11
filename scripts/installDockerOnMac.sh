@@ -9,7 +9,7 @@ brew search docker
 # Install Docker
 brew install docker
 brew install docker-clean
-brew install docker-tools
+brew cask install docker-toolbox
 # Install Docker compose and docker machine
 brew install docker-compose
 
